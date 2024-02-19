@@ -1,0 +1,18 @@
+Django (Backend)
+
+Python web framework
+Server side framework
+Designed to get you start fast
+
+Web framework:
+    is a collection of modules, packages and libraries Designed to speed up developement
+
+Building API's with Dj is easy:
+    Dj + Dj Rest framework
+
+MVT Designe Pattern:
+    Modal: Data Access Layer
+    View: Business Logic
+    Template: Presebtation Layer
+    # see MVT(Dj cours).png
+
