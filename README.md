@@ -1,7 +1,8 @@
 # Django Framework:
 
 I am beginning to learn the Django Python framework, and this repository will document my entire learning process. 
-It covers the basics of creating web applications. And Here's a comprehensive description of the Django framework:
+It covers the basics of creating web applications. 
+And Here's a comprehensive description of the Django framework:
 
 "Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design. It follows the "batteries-included" philosophy, providing developers with a set of tools and functionalities to build web applications quickly and efficiently. With its robust architecture and extensive documentation, Django simplifies the process of building complex web applications by promoting the DRY (Don't Repeat Yourself) principle and emphasizing reusable components.
 
